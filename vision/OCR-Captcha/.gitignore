@@ -1,0 +1,4 @@
+venv
+model
+dataset
+!dataset/.gitkeep
